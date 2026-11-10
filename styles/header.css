@@ -34,7 +34,7 @@
 }
 
 .header__nav-link:focus-visible {
-    outline: 2px solid var(--co-dark-greeb);
+    outline: 2px solid var(--co-dark-green);
 }
 
 .header__actions {

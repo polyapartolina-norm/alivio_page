@@ -19,7 +19,7 @@ a {
     color: unset;
 }
 
-h1, h2, h3, h4, h5, h6, p {
+h1, h2, h3, h4, h5, h6, p, figure {
     margin: 0;
     padding: 0;
 }
@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6, p {
 
 .btn:hover,
 .btn:focus-visible {
-   outline: 2px solid var(--co-dark-greeb);
+   outline: 2px solid var(--co-dark-green);
    cursor: pointer;
 }
 
